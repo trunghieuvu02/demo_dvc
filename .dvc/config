@@ -1,0 +1,4 @@
+[core]
+    remote = seadrill_dvc
+['remote "seadrill_dvc"']
+    url = Z:/test
